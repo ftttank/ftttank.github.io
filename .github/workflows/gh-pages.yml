@@ -3,26 +3,26 @@ name: Build and Deploy Hugo Site
 on:
   push:
     branches:
-      - main  # 当推送到main分支时触发该工作流
+      - main
 
 jobs:
   build:
-    runs-on: ubuntu-latest  # 使用最新的 Ubuntu 作为执行环境
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2  # 获取仓库的内容
+      uses: actions/checkout@v2
 
     - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2  # 设置 Hugo
+      uses: peaceiris/actions-hugo@v2
       with:
-        hugo-version: 'latest'  # 使用最新版本的 Hugo
+        hugo-version: 'extended'  # 使用扩展版的 Hugo
 
     - name: Build
-      run: hugo --minify  # 构建 Hugo 网站，带有最小化选项
+      run: hugo --minify  # 执行构建
 
     - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3  # 使用 GitHub Pages 部署
+      uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}  # GitHub 提供的访问令牌
-        publish_dir: ./public  # Hugo 构建后的文件会放在 `public/` 文件夹中
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
