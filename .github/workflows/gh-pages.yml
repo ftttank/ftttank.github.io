@@ -11,20 +11,23 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4  # 更新到 v4，兼容 Node.js 20
+      uses: actions/checkout@v4  # 更新到兼容 Node.js 20 的版本
 
-    - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2  # 使用正确的版本号
-      with:
-        hugo-version: 'extended'
+    - name: Install Hugo
+      run: |
+        HUGO_VERSION=0.118.2  # 设置为您需要的 Hugo 版本
+        wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
+        tar -xzf hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
+        sudo mv hugo /usr/local/bin/
+        hugo version  # 验证 Hugo 是否正确安装
 
     - name: Build
       run: hugo --minify
 
     - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3  # 使用正确的版本号
+      uses: JamesIves/github-pages-deploy-action@v4  # 使用兼容 Node.js 20 的部署动作
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./public
-
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH: gh-pages  # 部署到 gh-pages 分支
+        FOLDER: public  # Hugo 构建输出的目录
 
