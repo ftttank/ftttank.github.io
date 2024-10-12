@@ -16,34 +16,34 @@ superuser: false
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
 weight: 830
 
-university: Utah
+university: University of Science and Technology of China
 
 # Role/position
-role: Undergraduate Researcher
+role: 特任副研究员
 
 department:
 - School of Computing
 
 # Organizations/Affiliations
 organizations:
-- name: University of Utah
-  url: "utah.edu"
+- name: University of Science and Technology of China
+  url: "www.ustc.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Software Development
-- Operating Systems
-- Front end website design
+- 
+- 
+- 
 
 projects:
-- <a href="/author/synbiohub/">SynBioHub</a>
+- 
 
 education:
   courses:
   - course: Bachelor's Degree, Computer Science
-    institution: University of Utah
+    institution: 
     year: 2025
 
 # Social/Academic Networking
@@ -52,8 +52,8 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: github
-  icon_pack: fab
-  link: https://github.com/Ole113
+  icon_pack: 
+  link: 
 # - icon: orcid
 #   icon_pack: fab
 #   link: https://orcid.org/0000-0002-8762-8444
@@ -62,7 +62,7 @@ social:
 #   link: mailto:alex_elbel@icloud.com
 - icon: university-logo
   icon_pack: Custom_University
-  link: https://www.cs.utah.edu/
+  link: www.ustc.edu.cn
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -76,14 +76,13 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Alumni
-- Genetic Design Automation
-- SynBioHub
+- 
+- 
+- 
 
 #any user groups to display on the page
 display_groups:
-- SynBioHub Tool
-- Genetic Design Automation Area
+- 
+- 
 
 ---
-Alex Elbel is an undergraduate currently studying computer science at the University of Utah. He is interested in front end website design and software development. In his free time Alex enjoys skiing and backpacking.
