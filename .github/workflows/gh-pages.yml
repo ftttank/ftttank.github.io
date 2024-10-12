@@ -11,10 +11,10 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2  # 获取仓库的内容
+      uses: actions/checkout@v3  # 更新到 v3
 
     - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2.6.0  # 使用扩展版的 Hugo
+      uses: peaceiris/actions-hugo@v2  # 使用支持 Node.js 20 的 Hugo Action
       with:
         hugo-version: 'extended'  # 指定使用扩展版 Hugo
 
