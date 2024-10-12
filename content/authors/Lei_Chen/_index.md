@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Lei_Chen
+title: Lei Chen
 
 # Username (this should match the folder name)
 authors:
-- Lei_Chen
+- Lei Chen
 
 #Author Names (alternative spellings etc)
 names:
-- Lei_Chen
+- Lei Chen
 
 # Is this the primary user of the site?
 superuser: false
