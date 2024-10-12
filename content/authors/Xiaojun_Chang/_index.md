@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Alex Elbel
+title: Xiaojun Chang
 
 # Username (this should match the folder name)
 authors:
-- Alex Elbel
+- Xiaojun Chang
 
 #Author Names (alternative spellings etc)
 names:
-- Alex Elbel
+- Xiaojun Chang
 
 # Is this the primary user of the site?
 superuser: false
@@ -81,8 +81,6 @@ user_groups:
 
 #any user groups to display on the page
 display_groups:
-- SynBioHub Tool
-- Genetic Design Automation Area
-- SynBioHub Plugins Tool
+- 
 
 ---

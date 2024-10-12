@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Alex Elbel
+title: Zhihui Li
 
 # Username (this should match the folder name)
 authors:
-- Alex Elbel
+- Zhihui Li
 
 #Author Names (alternative spellings etc)
 names:
-- Alex Elbel
+- Zhihui Li
 
 # Is this the primary user of the site?
 superuser: false
