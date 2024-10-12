@@ -19,7 +19,7 @@ weight: 830
 university: University of Science and Technology of China
 
 # Role/position
-role: 特任副研究员
+role: 博士后
 
 department:
 - School of Computing

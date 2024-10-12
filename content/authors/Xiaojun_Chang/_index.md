@@ -19,7 +19,7 @@ weight: 1
 university: University of Science and Technology of China
 
 # Role/position
-role: Department Chair / Professor
+role: 长江讲席 / Director
 
 department:
 - School of Computing
