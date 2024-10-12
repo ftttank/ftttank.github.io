@@ -3,7 +3,7 @@ name: Build and Deploy Hugo Site
 on:
   push:
     branches:
-      - main
+      - main  # 当推送到 main 分支时触发工作流
 
 jobs:
   build:
@@ -11,15 +11,13 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4  # 更新到兼容 Node.js 20 的版本
+      uses: actions/checkout@v4  # 使用最新的 v4 版本
 
-    - name: Install Hugo
-      run: |
-        HUGO_VERSION=0.118.2  # 设置为您需要的 Hugo 版本
-        wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
-        tar -xzf hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
-        sudo mv hugo /usr/local/bin/
-        hugo version  # 验证 Hugo 是否正确安装
+    - name: Setup Hugo
+      uses: actions/setup-hugo@v2  # 使用官方的 Hugo 设置动作
+      with:
+        hugo-version: 'latest'  # 或者指定具体版本，例如 '0.118.2'
+        extended: true  # 安装扩展版 Hugo（如果需要）
 
     - name: Build
       run: hugo --minify
@@ -27,7 +25,8 @@ jobs:
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@v4  # 使用兼容 Node.js 20 的部署动作
       with:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH: gh-pages  # 部署到 gh-pages 分支
-        FOLDER: public  # Hugo 构建输出目录
+        token: ${{ secrets.GITHUB_TOKEN }}  # 修改为 'token'，而不是 'GITHUB_TOKEN'
+        branch: gh-pages  # 部署的分支，确保与 GitHub Pages 设置一致
+        folder: public  # Hugo 构建输出的目录
+
 
