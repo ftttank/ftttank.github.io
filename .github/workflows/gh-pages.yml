@@ -29,5 +29,5 @@ jobs:
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH: gh-pages  # 部署到 gh-pages 分支
-        FOLDER: public  # Hugo 构建输出的目录
+        FOLDER: public  # Hugo 构建输出目录
 
