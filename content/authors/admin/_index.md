@@ -73,5 +73,3 @@ The Future Media Computing Lab is run by <a href="/author/chris-myers/">Xiaojun 
 
 <!-- Can uncomment below for advertising -->
 <!-- The Genetic Logic Lab is always looking for talented undergraduate and graduate students. If you're interested in working in the new, exciting interdisciplinary field of synthetic biology, feel free to <a href="/#contact">reach out</a>! --> 
-
-We are hosting an outreach event for undergraduate students interested in computing science! <a href="/outreach/">Click here for more info and to register</a>!
