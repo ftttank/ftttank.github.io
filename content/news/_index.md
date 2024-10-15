@@ -12,4 +12,4 @@ header:
   caption: ""
   image: ""
 ---
-news
+NEW LABORATORY FOUNDED!
