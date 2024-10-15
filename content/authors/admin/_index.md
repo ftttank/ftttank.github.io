@@ -69,7 +69,7 @@ user_groups:
 
 ---
 
-The Future Media Computing Lab is run by <a href="/author/Xiaojun_Chang/">Xiaojun Chang</a>. The research in the lab focuses on .... Examples of work include: ....
+The Future Media Computing Lab is run by <a href="/author/Xiaojun-Chang/">Xiaojun Chang</a>. The research in the lab focuses on .... Examples of work include: ....
 
 <!-- Can uncomment below for advertising -->
 <!-- The Genetic Logic Lab is always looking for talented undergraduate and graduate students. If you're interested in working in the new, exciting interdisciplinary field of synthetic biology, feel free to <a href="/#contact">reach out</a>! --> 
