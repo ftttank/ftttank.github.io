@@ -100,7 +100,7 @@ address = {street = "中国科学技术大学高新校区", city = "合肥市", 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "31.81994361652272", longitude = "117.13165351381843"}
+coordinates = {latitude = "31.820132553621974", longitude = "117.12195038760376"}
 
 # Directions for visitors to locate you.
 directions = ""
