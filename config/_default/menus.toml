@@ -14,7 +14,7 @@
   identifier = "people"
   weight = 20
 
-  [[main]]
+[[main]]
   name = "Research"
   url = "/research"
   weight = 30
@@ -25,34 +25,6 @@
   url = "/publication"
   weight = 50
   identifier = "Publications"
-
-[[main]]
-  name = "Publications"
-  url = "/Publications/Engineering-Genetic-Circuits"
-  weight = 1
-  parent = "Publications"
-
-[[main]]
-  name = "Publications"
-  url = "/Publications/Asynchronous-Circuit-Design"
-  weight = 2
-  parent = "Publications"
-
-  [[main]]
-  name = "Tools"
-  url = "/tools"
-  weight = 60
-  identifier = "tools-id"
-
-[[main]]
-  name = "Teaching"
-  url = "/courses"
-  weight = 70  
-
-[[main]]
-  name = "Outreach"
-  url = "/outreach"
-  weight = 72
 
 [[main]]
   name = "Contact"
