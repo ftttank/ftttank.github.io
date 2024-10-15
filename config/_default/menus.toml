@@ -21,6 +21,11 @@
   identifier = "research-id"
 
 [[main]]
+  name = "News"
+  url = "/news"
+  weight = 40
+
+[[main]]
   name = "Publications"
   url = "/publication"
   weight = 50
