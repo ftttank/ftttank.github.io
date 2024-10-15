@@ -1,7 +1,7 @@
 ---
 title: 'A Survey of Deep Active Learning'
 subtitle: ''
-summary: 'This survey provides a formal classification and comprehensive overview of Deep Active Learning (DeepAL) research, discussing applications and future directions.'
+summary: ''
 authors:
 - Pengzhen Ren
 - Yun Xiao
