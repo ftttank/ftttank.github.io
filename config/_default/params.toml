@@ -95,7 +95,8 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "425 UCB #1B55", city = "Boulder", region = "CO", postcode = "80309", country = "United States", country_code = "US"}
+address = {street = "中国科学技术大学高新校区", city = "合肥市", region = "安徽省", postcode = "230088", country = "China", country_code = "CN"}
+
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
