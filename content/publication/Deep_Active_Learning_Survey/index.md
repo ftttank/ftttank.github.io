@@ -40,7 +40,7 @@ abstract:
  It is therefore natural to investigate whether AL can be used to reduce the cost of sample annotation while retaining the powerful learning capabilities of DL. As a result of such investigations, deep active learning (DeepAL) has emerged. Although research on this topic is quite abundant, there has not yet been a comprehensive survey of DeepAL-related works; accordingly, this article aims to fill this gap. We provide a formal classification method for the existing work, along with a comprehensive and systematic overview. In addition, we also analyze and summarize the development of DeepAL from an application perspective. Finally, we discuss the confusion and problems associated with DeepAL and provide some possible development directions.'
 publication: 'ACM Computing Surveys'
 url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3472291'
-doi: 10.1145/3485140
+doi: 10.1145/3472291
 issn: '0360-0300'
 volume: '54'
 number: '1'
