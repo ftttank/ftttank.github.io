@@ -16,4 +16,4 @@ subtitle = ""
 +++
 
 
-<p style="font-size: 32px;"> New LABORATORY FOUNDED!
+<p style="font-size: 32px;"> New LABORATORY ESTABLISHED!
