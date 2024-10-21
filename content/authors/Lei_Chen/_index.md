@@ -33,8 +33,7 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- 人工智能与机器学习理论方法
-- 人工智能与机器学习在计算机视觉与跨媒体计算中的应用
+- 人工智能与机器学习理论方法及在计算机视觉与跨媒体计算中的应用
 - 
 
 projects:
