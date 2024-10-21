@@ -36,7 +36,6 @@ title: MingJie Li
 university: University of Science and Technology of China
 user_groups:
 - PhD Alumni
-- null
 weight: 100
 ---
 
