@@ -23,7 +23,7 @@ organizations:
   url: www.ustc.edu.cn
 projects:
 - null
-role: Ph.D Graduated
+role: Postdoc
 social:
 - icon: github
   icon_pack: null
