@@ -19,10 +19,10 @@ weight: 4
 university: University of Science and Technology of China
 
 # Role/position
-role: 特任副研究员
+role: Associate Researcher
 
 department:
-- School of Computing
+- School of Information Science and Technology
 
 # Organizations/Affiliations
 organizations:
@@ -33,8 +33,9 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- 人工智能与机器学习理论方法及在计算机视觉与跨媒体计算中的应用
-- 
+- Artificial Intelligence
+- Machine Learning
+- Multimedia
 
 projects:
 - 
