@@ -35,9 +35,9 @@ superuser: false
 title: MingFei Han
 university: University of Science and Technology of China
 user_groups:
-- Graduate Students
+- Alumni PhDs
 - null
-weight: 100
+weight: 810
 ---
 
 He is working on embodiment learning and vision-text multimodal learning. Especially, he is interested in boosting robots with human videos from web.
