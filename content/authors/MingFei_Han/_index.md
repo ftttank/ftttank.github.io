@@ -35,7 +35,7 @@ superuser: false
 title: MingFei Han
 university: University of Science and Technology of China
 user_groups:
-- Alumni PhDs
+- PhD Alumni
 - null
 weight: 810
 ---
