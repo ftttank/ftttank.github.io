@@ -33,10 +33,9 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Video Analysis, including event detection, object detection, segmentation.
-- Multi-Modal Foundation Models.
-- Medical Foundation Models.
-- Multi-Agent Reinforcement Learning.
+- Artificial Intelligence
+- Machine Learning
+- Multimedia
 
 projects:
 - 
