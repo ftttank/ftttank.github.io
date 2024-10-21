@@ -17,13 +17,13 @@ interests:
 - null
 - null
 names:
-- ZhangLin Li
+- ChangLin Li
 organizations:
 - name: University of Science and Technology of China
   url: www.ustc.edu.cn
 projects:
 - null
-role: 博士后
+role: Postdoc
 social:
 - icon: github
   icon_pack: null
@@ -32,10 +32,10 @@ social:
   icon_pack: Custom_University
   link: www.ustc.edu.cn
 superuser: false
-title: ZhangLin Li
+title: ChangLin Li
 university: University of Science and Technology of China
 user_groups:
-- Undergraduate Students
+- Alumni
 - null
 weight: 100
 ---
