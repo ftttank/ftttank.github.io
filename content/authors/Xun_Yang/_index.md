@@ -19,10 +19,10 @@ weight: 2
 university: University of Science and Technology of China
 
 # Role/position
-role: 海外优青 / Co-Director
+role: Professor / Co-Director
 
 department:
-- School of Computing
+- School of Information Science and Technology
 
 # Organizations/Affiliations
 organizations:
