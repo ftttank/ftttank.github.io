@@ -15,12 +15,6 @@
   weight = 20
 
 [[main]]
-  name = "Research"
-  url = "/research"
-  weight = 30
-  identifier = "research-id"
-
-[[main]]
   name = "News"
   url = "/news"
   weight = 40
