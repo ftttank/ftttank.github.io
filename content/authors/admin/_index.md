@@ -69,7 +69,7 @@ user_groups:
 
 ---
 
-The Future Media Computing Lab is run by <a href="/author/xiaojun-chang/">Xiaojun Chang</a>. The research in the lab focuses on .... Examples of work include: ....
+The Future Media Computing Lab is run by <a href="/author/xiaojun-chang/">Prof Xiaojun Chang</a> and <a href="/author/xun-yang/">Prof Xun Yang</a>. It is a cutting-edge research center dedicated to advancing the frontiers of multimedia and AI technologies. Focused on areas such as video content analysis, multimodal intelligence, 3D vision, and human-computer interaction, the lab aims to revolutionize how media is processed, understood, and generated. Through interdisciplinary collaboration, the lab develops innovative algorithms and systems that address real-world challenges, from video-based recognition tasks to intelligent media creation, fostering breakthroughs in both academic and industrial applications.
 
 <!-- Can uncomment below for advertising -->
-<!-- The Genetic Logic Lab is always looking for talented undergraduate and graduate students. If you're interested in working in the new, exciting interdisciplinary field of synthetic biology, feel free to <a href="/#contact">reach out</a>! --> 
+The Future Media Computing Lab is always looking for talented undergraduate, graduate students and postdocs. If you're interested in working in the exciting field of future media computing, feel free to <a href="/#contact">reach out</a>! --> 
