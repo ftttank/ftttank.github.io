@@ -19,10 +19,10 @@ weight: 100
 university: University of Science and Technology of China
 
 # Role/position
-role: 博士后
+role: Postdoc
 
 department:
-- School of Computing
+- School of Information Science and Technology
 
 # Organizations/Affiliations
 organizations:
