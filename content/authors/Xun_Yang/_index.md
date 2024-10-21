@@ -33,9 +33,9 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- 
-- 
-- 
+- Multimedia
+- Computer Vision
+- Machine Learning
 
 projects:
 - 
@@ -51,18 +51,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: github
-  icon_pack: 
-  link: 
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/xiaojun-chang
 # - icon: orcid
 #   icon_pack: fab
 #   link: https://orcid.org/0000-0002-8762-8444
 # - icon: envelope
 #   icon_pack: fas
 #   link: mailto:alex_elbel@icloud.com
-- icon: university-logo
-  icon_pack: Custom_University
-  link: www.ustc.edu.cn
+- icon: user-graduate
+  icon_pack: fas
+  link: https://sites.google.com/site/xunyangprofile/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -85,3 +85,4 @@ display_groups:
 - 
 
 ---
+Xun Yang now is a Professor in Department of Electronic Engineering and Information Science (EEIS), University of Science and Technology of China (USTC), Hefei, China. He was a research fellow in NExT++, School of Computing, National University of Singapore from 2018 to 2021. Xun received his Ph.D from Hefei University of Technology in 2017, under the supervision of Prof. Meng Wang. His research interests include information retrieval, computer vision, and multimedia information processing. Moreover, he has served as the PC member and the invited reviewer for top-tier conferences and prestigious journals including ACM MM, ACM MMAsia, AAAI, IJCAI, IEEE TCSVT, IEEE TKDE, IEEE TNNLS, and IEEE TMM.
