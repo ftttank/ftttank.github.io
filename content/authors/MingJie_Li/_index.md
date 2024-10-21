@@ -11,7 +11,7 @@ education:
   - course: null
     institution: null
     year: null
-email: ''
+email: 
 interests:
 - null
 - null
@@ -19,11 +19,11 @@ interests:
 names:
 - MingJie Li
 organizations:
-- name: University of Science and Technology of China
-  url: www.ustc.edu.cn
+- name: Stanford University
+  url: www.stanford.edu
 projects:
 - null
-role: 博后
+role: Postdoc
 social:
 - icon: github
   icon_pack: null
@@ -33,10 +33,10 @@ social:
   link: www.ustc.edu.cn
 superuser: false
 title: MingJie Li
-university: University of Science and Technology of China
+university: Stanford University
 user_groups:
 - PhD Alumni
 weight: 100
 ---
 
-(空)
+
