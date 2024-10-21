@@ -19,10 +19,10 @@ weight: 1
 university: University of Science and Technology of China
 
 # Role/position
-role: 长江讲席 / Director
+role: Chair Professor / Director
 
 department:
-- School of Computing
+- School of Information Science and Technology
 
 # Organizations/Affiliations
 organizations:
