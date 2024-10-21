@@ -33,9 +33,10 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- 
-- 
-- 
+- Video Analysis, including event detection, object detection, segmentation.
+- Multi-Modal Foundation Models.
+- Medical Foundation Models.
+- Multi-Agent Reinforcement Learning.
 
 projects:
 - 
@@ -52,8 +53,8 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: github
-  icon_pack: 
-  link: 
+  icon_pack: fab
+  link: https://github.com/xiaojun-chang
 # - icon: orcid
 #   icon_pack: fab
 #   link: https://orcid.org/0000-0002-8762-8444
@@ -62,7 +63,7 @@ social:
 #   link: mailto:alex_elbel@icloud.com
 - icon: university-logo
   icon_pack: Custom_University
-  link: www.ustc.edu.cn
+  link: https://www.xiaojun.ai/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -82,5 +83,4 @@ user_groups:
 #any user groups to display on the page
 display_groups:
 - 
-
 ---
