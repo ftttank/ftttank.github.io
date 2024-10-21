@@ -11,7 +11,7 @@ education:
   - course: null
     institution: null
     year: null
-email: ''
+email: 
 interests:
 - null
 - null
