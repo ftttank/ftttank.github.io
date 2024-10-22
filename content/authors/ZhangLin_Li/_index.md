@@ -35,7 +35,7 @@ superuser: false
 title: ChangLin Li
 university: University of Science and Technology of China
 user_groups:
-- Alumni
+- PhD Alumni
 - null
 weight: 100
 ---
