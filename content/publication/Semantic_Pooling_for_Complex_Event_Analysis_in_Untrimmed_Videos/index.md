@@ -27,7 +27,7 @@ publication_types:
 - '2'
 abstract: 'This paper introduces a novel semantic pooling method for event analysis tasks like detection, recognition, and recounting in long untrimmed Internet videos. Using semantic saliency, the approach ranks video shots to prioritize the most relevant ones, improving the classifier’s accuracy. The paper proposes a nearly-isotonic SVM classifier, validated with experiments on real-world datasets, showcasing significant performance improvements.'
 publication: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
-url_pdf: 'https://ieeexplore.ieee.org/document/9354593'
+url_pdf: 'https://ieeexplore.ieee.org/document/7565615'
 doi: 10.1109/TPAMI.2016.2608901
 issn: '0162-8828'
 volume: '39'
