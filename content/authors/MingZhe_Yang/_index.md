@@ -13,9 +13,9 @@ education:
     year: null
 email: ''
 interests:
-- null
-- null
-- null
+- Efficient Training
+- Knowledge Distillation
+- Computer Vision
 names:
 - MingZhe Yang
 organizations:
