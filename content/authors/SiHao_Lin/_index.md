@@ -35,7 +35,7 @@ superuser: false
 title: SiHao Lin
 university: University of Science and Technology of China
 user_groups:
-- Undergraduate Students
+- PhD Alumni
 - null
 weight: 200
 ---
