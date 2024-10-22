@@ -35,7 +35,7 @@ superuser: false
 title: JiaLun Li
 university: University of Science and Technology of China
 user_groups:
-- Undergraduate Students
+- Graduate Students
 - null
 weight: 300
 ---
