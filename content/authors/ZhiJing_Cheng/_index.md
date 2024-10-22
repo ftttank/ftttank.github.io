@@ -35,7 +35,7 @@ superuser: false
 title: ZhiJing Cheng
 university: University of Science and Technology of China
 user_groups:
-- Graduate Students
+- Undergraduate Students
 - null
 weight: 400
 ---
