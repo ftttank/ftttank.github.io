@@ -13,9 +13,9 @@ education:
     year: null
 email: ''
 interests:
-- null
-- null
-- null
+- Neural Architecture Search
+- Computer Vision
+- AIGC
 names:
 - ChangLin Li
 organizations:
