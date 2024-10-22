@@ -23,7 +23,7 @@ organizations:
   url: www.ustc.edu.cn
 projects:
 - null
-role: 博士
+role: PhD Student
 social:
 - icon: github
   icon_pack: null
@@ -35,7 +35,7 @@ superuser: false
 title: HaiHong Hao
 university: University of Science and Technology of China
 user_groups:
-- Undergraduate Students
+- Graduate Students
 - null
 weight: 200
 ---
