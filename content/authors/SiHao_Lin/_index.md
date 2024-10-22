@@ -13,9 +13,9 @@ education:
     year: null
 email: ''
 interests:
-- null
-- null
-- null
+- Knowledge Distillation
+- Computer Vision
+- Efficient Training
 names:
 - SiHao Lin
 organizations:
