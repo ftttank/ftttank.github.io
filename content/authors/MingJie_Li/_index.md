@@ -13,9 +13,9 @@ education:
     year: null
 email: 
 interests:
-- null
-- null
-- null
+- Medical Report Generation
+- Computer Vision
+- Meidical Artificial Intelligence
 names:
 - MingJie Li
 organizations:
