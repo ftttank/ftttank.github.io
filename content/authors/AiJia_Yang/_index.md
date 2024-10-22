@@ -13,9 +13,9 @@ education:
     year: null
 email: ''
 interests:
-- null
-- null
-- null
+- Biomedical Engineering
+- Artificial Intelligence
+- Computer Vision
 names:
 - AiJia Yang
 organizations:
