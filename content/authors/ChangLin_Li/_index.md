@@ -1,6 +1,5 @@
 ---
 authors:
-- ChangLin Li
 - Changlin Li
 department:
 - null
@@ -18,7 +17,7 @@ interests:
 - Computer Vision
 - AIGC
 names:
-- ChangLin Li
+- Changlin Li
 organizations:
 - name: University of Science and Technology of China
   url: www.ustc.edu.cn
@@ -33,7 +32,7 @@ social:
   icon_pack: Custom_University
   link: www.ustc.edu.cn
 superuser: false
-title: ChangLin Li
+title: Changlin Li
 university: University of Science and Technology of China
 user_groups:
 - PhD Alumni

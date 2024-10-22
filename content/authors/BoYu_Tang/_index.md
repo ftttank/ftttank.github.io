@@ -1,6 +1,6 @@
 ---
 authors:
-- BoYu Tang
+- Boyu Tang
 department:
 - null
 display_groups:
@@ -17,7 +17,7 @@ interests:
 - null
 - null
 names:
-- BoYu Tang
+- Boyu Tang
 organizations:
 - name: University of Science and Technology of China
   url: www.ustc.edu.cn
@@ -32,7 +32,7 @@ social:
   icon_pack: Custom_University
   link: www.ustc.edu.cn
 superuser: false
-title: BoYu Tang
+title: Boyu Tang
 university: University of Science and Technology of China
 user_groups:
 - Graduate Students

@@ -1,6 +1,6 @@
 ---
 authors:
-- AiJia Yang
+- Aijia Yang
 department:
 - null
 display_groups:
@@ -17,7 +17,7 @@ interests:
 - Artificial Intelligence
 - Computer Vision
 names:
-- AiJia Yang
+- Aijia Yang
 organizations:
 - name: University of Science and Technology of China
   url: www.ustc.edu.cn
@@ -32,7 +32,7 @@ social:
   icon_pack: Custom_University
   link: www.ustc.edu.cn
 superuser: false
-title: AiJia Yang
+title: Aijia Yang
 university: University of Science and Technology of China
 user_groups:
 - PhD Alumni
