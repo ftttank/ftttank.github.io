@@ -35,7 +35,7 @@ superuser: false
 title: JunFei Yi
 university: University of Science and Technology of China
 user_groups:
-- Undergraduate Students
+- Visitors
 - null
 weight: 200
 ---
