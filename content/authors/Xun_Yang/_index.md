@@ -19,7 +19,7 @@ weight: 2
 university: University of Science and Technology of China
 
 # Role/position
-role: Professor / Co-Director
+role: Professor / Deputy Director
 
 department:
 - School of Information Science and Technology
