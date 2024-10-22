@@ -31,7 +31,7 @@ publication_types:
 - '2'
 abstract: 'This work addresses the catastrophic forgetting problem in one-shot neural architecture search by treating supernet training as a constrained optimization problem. The proposed method uses a novelty search-based architecture selection approach to enhance diversity and boost performance, achieving competitive results on CIFAR-10 and ImageNet datasets.'
 publication: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
-url_pdf: 'https://ieeexplore.ieee.org/document/3035351'
+url_pdf: 'https://ieeexplore.ieee.org/document/9247292'
 doi: 10.1109/TPAMI.2020.3035351
 issn: '0162-8828'
 volume: '43'

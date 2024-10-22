@@ -29,7 +29,7 @@ publication_types:
 - '2'
 abstract: 'This paper introduces a video pivoting method for unsupervised multi-modal machine translation (UMMT), which uses spatial-temporal graphs to align sentence pairs in the latent space. By leveraging visual content from videos, the approach enhances translation accuracy and generalization across multiple languages, as demonstrated on the VATEX and HowToWorld datasets.'
 publication: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
-url_pdf: 'https://ieeexplore.ieee.org/document/3181116'
+url_pdf: 'https://ieeexplore.ieee.org/document/9792411'
 doi: 10.1109/TPAMI.2022.3181116
 issn: '0162-8828'
 volume: '45'

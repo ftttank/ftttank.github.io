@@ -31,7 +31,7 @@ publication_types:
 - '2'
 abstract: 'This paper presents DS-Net++, a novel framework for efficient inference in neural networks. Dynamic weight slicing allows for scalable performance across multiple architectures like CNNs and vision transformers. The method delivers up to 61.5% real-world acceleration with minimal accuracy drops on models like MobileNet, ResNet-50, and Vision Transformer, showing its potential in hardware-efficient dynamic networks.'
 publication: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
-url_pdf: 'https://ieeexplore.ieee.org/document/3194044'
+url_pdf: 'https://ieeexplore.ieee.org/document/9842348'
 doi: 10.1109/TPAMI.2022.3194044
 issn: '0162-8828'
 volume: '46'

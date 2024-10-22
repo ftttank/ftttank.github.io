@@ -30,7 +30,7 @@ publication_types:
 - "2"
 abstract: "TN-ZSTAD introduces a novel approach to zero-shot temporal activity detection (ZSTAD) in long untrimmed videos. By integrating an activity graph transformer with zero-shot detection techniques, it addresses the challenge of recognizing and localizing unseen activities. Experiments on THUMOS'14, Charades, and ActivityNet datasets validate its superior performance in detecting unseen activities."
 publication: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
-url_pdf: "https://ieeexplore.ieee.org/document/3183586"
+url_pdf: "https://ieeexplore.ieee.org/document/9797852"
 doi: "10.1109/TPAMI.2022.3183586"
 issn: "0162-8828"
 volume: "46"
