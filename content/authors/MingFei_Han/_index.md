@@ -13,9 +13,9 @@ education:
     year: null
 email: 
 interests:
-- null
-- null
-- null
+- Embodied AI
+- Vision Language Navigation
+- Video Analysis
 names:
 - MingFei Han
 organizations:
