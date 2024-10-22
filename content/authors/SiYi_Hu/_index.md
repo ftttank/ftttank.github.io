@@ -13,9 +13,9 @@ education:
     year: null
 email: ''
 interests:
-- null
-- null
-- null
+- Multi-Agent Reinforcement Learning
+- Computer Vision
+- Artificial Intelligence
 names:
 - SiYi Hu
 organizations:
