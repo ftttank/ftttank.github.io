@@ -29,7 +29,7 @@ social:
   icon_pack: null
   link: null
 - icon: university-logo
-  icon_pack: Custom_University
+  icon_pack: null
   link: www.ustc.edu.cn
 superuser: false
 title: MingJie Li

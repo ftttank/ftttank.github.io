@@ -61,7 +61,7 @@ social:
 #   icon_pack: fas
 #   link: mailto:alex_elbel@icloud.com
 - icon: university-logo
-  icon_pack: Custom_University
+  icon_pack: null
   link: www.ustc.edu.cn
 
 # Link to a PDF of your resume/CV from the About widget.
