@@ -42,9 +42,9 @@ projects:
 
 education:
   courses:
-  - course: Bachelor's Degree, Computer Science
-    institution: 
-    year: 2025
+  - course: null
+    institution: null
+    year: null
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
