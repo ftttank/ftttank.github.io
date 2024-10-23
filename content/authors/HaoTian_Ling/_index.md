@@ -14,8 +14,6 @@ education:
 email: ''
 interests:
 - null
-- null
-- null
 names:
 - HaoTian Ling
 organizations:
