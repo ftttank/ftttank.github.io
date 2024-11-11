@@ -30,7 +30,7 @@ social:
   icon_pack: null
   link: www.ustc.edu.cn
 superuser: false
-title: NaiXin Di
+title: NaiXin Zhai
 university: University of Science and Technology of China
 user_groups:
 - Graduate Students
