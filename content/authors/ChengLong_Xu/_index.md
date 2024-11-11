@@ -21,7 +21,7 @@ organizations:
   url: www.ustc.edu.cn
 projects:
 - null
-role: 专业硕士 二年级
+role: 专业硕士 三年级
 social:
 - icon: github
   icon_pack: null

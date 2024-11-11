@@ -1,6 +1,6 @@
 ---
 authors:
-- NaiXin Di
+- NaiXin Zhai
 department:
 - null
 display_groups:
@@ -15,7 +15,7 @@ email: ''
 interests:
 - null
 names:
-- NaiXin Di
+- NaiXin Zhai
 organizations:
 - name: University of Science and Technology of China
   url: www.ustc.edu.cn
